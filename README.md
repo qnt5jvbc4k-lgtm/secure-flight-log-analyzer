@@ -26,6 +26,6 @@ A privacy-first flight log analysis prototype that anonymizes sensitive identifi
 ![Alerts](screenshots/Alert_monitoring.png)
 
 ## Limitations
-- Uses synthetic data only
+- Uses simulated data only
 - Simulated real-time processing
 - Educational prototype, not a production system
